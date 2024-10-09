@@ -1,2 +1,2 @@
 say-hello:
-	poetry run say-hello
+	python3 hello/scripts/script.py
